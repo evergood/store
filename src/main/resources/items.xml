@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+    <Item serial_number="A237871">
+        <name>Cisco</name>
+        <description>Router</description>
+        <date>Jan 03, 2011</date>
+    </Item>
+    <Item serial_number="A565644">
+        <name>Dlink</name>
+        <description>Switch</description>
+        <date>Mar 03, 2014</date>
+    </Item>
+    <Item serial_number="B564799">
+        <name>Cisco</name>
+        <description>Controller</description>
+        <date>Dec 30, 2019</date>
+    </Item>
+</Items>
